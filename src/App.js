@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import ThemeToggle from './components/ThemeToggle';
 import About from './components/About';
 import Hero from './components/Hero';
